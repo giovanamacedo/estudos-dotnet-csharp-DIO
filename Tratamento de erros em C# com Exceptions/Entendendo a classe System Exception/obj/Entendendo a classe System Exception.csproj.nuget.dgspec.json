@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\Entendendo a classe System Exception.csproj": {}
+    "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Exercícios\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\Entendendo a classe System Exception.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\Entendendo a classe System Exception.csproj": {
+    "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Exercícios\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\Entendendo a classe System Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\Entendendo a classe System Exception.csproj",
+        "projectUniqueName": "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Exercícios\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\Entendendo a classe System Exception.csproj",
         "projectName": "Entendendo a classe System Exception",
-        "projectPath": "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\Entendendo a classe System Exception.csproj",
+        "projectPath": "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Exercícios\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\Entendendo a classe System Exception.csproj",
         "packagesPath": "C:\\Users\\Giovana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\obj\\",
+        "outputPath": "C:\\Users\\Giovana\\Desktop\\Eu\\Estudos\\DOTNET - DIO\\Exercícios\\Tratamento de erros em C# com Exceptions\\Entendendo a classe System Exception\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Giovana\\AppData\\Roaming\\NuGet\\NuGet.Config",
