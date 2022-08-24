@@ -1,0 +1,15 @@
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\bin\Debug\net6.0\aula01-entradapeloconsole.exe
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\bin\Debug\net6.0\aula01-entradapeloconsole.deps.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\bin\Debug\net6.0\aula01-entradapeloconsole.runtimeconfig.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\bin\Debug\net6.0\aula01-entradapeloconsole.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\bin\Debug\net6.0\aula01-entradapeloconsole.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\aula01-entradapeloconsole.csproj.AssemblyReference.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\aula01-entradapeloconsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\aula01-entradapeloconsole.AssemblyInfoInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\aula01-entradapeloconsole.AssemblyInfo.cs
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\aula01-entradapeloconsole.csproj.CoreCompileInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\aula01-entradapeloconsole.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\refint\aula01-entradapeloconsole.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\aula01-entradapeloconsole.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\aula01-entradapeloconsole.genruntimeconfig.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula01-entradapeloconsole\obj\Debug\net6.0\ref\aula01-entradapeloconsole.dll

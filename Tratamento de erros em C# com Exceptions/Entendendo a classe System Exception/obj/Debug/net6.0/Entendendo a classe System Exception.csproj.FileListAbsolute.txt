@@ -1,0 +1,15 @@
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\bin\Debug\net6.0\Entendendo a classe System Exception.exe
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\bin\Debug\net6.0\Entendendo a classe System Exception.deps.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\bin\Debug\net6.0\Entendendo a classe System Exception.runtimeconfig.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\bin\Debug\net6.0\Entendendo a classe System Exception.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\bin\Debug\net6.0\Entendendo a classe System Exception.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\Entendendo a classe System Exception.csproj.AssemblyReference.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\Entendendo a classe System Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\Entendendo a classe System Exception.AssemblyInfoInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\Entendendo a classe System Exception.AssemblyInfo.cs
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\Entendendo a classe System Exception.csproj.CoreCompileInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\Entendendo a classe System Exception.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\refint\Entendendo a classe System Exception.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\Entendendo a classe System Exception.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\Entendendo a classe System Exception.genruntimeconfig.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Tratamento de erros em C# com Exceptions\Entendendo a classe System Exception\obj\Debug\net6.0\ref\Entendendo a classe System Exception.dll

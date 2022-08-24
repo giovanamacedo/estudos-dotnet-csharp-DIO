@@ -1,0 +1,15 @@
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\bin\Debug\net6.0\aula03-blocosderepeticao.exe
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\bin\Debug\net6.0\aula03-blocosderepeticao.deps.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\bin\Debug\net6.0\aula03-blocosderepeticao.runtimeconfig.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\bin\Debug\net6.0\aula03-blocosderepeticao.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\bin\Debug\net6.0\aula03-blocosderepeticao.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\aula03-blocosderepeticao.csproj.AssemblyReference.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\aula03-blocosderepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\aula03-blocosderepeticao.AssemblyInfoInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\aula03-blocosderepeticao.AssemblyInfo.cs
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\aula03-blocosderepeticao.csproj.CoreCompileInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\aula03-blocosderepeticao.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\refint\aula03-blocosderepeticao.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\aula03-blocosderepeticao.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\aula03-blocosderepeticao.genruntimeconfig.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula03-blocosderepeticao\obj\Debug\net6.0\ref\aula03-blocosderepeticao.dll

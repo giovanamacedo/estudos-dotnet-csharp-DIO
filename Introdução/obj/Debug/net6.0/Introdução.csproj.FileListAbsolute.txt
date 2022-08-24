@@ -1,0 +1,15 @@
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\bin\Debug\net6.0\Introdução.exe
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\bin\Debug\net6.0\Introdução.deps.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\bin\Debug\net6.0\Introdução.runtimeconfig.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\bin\Debug\net6.0\Introdução.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\bin\Debug\net6.0\Introdução.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\Introdução.csproj.AssemblyReference.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\Introdução.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\Introdução.AssemblyInfoInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\Introdução.AssemblyInfo.cs
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\Introdução.csproj.CoreCompileInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\Introdução.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\refint\Introdução.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\Introdução.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\Introdução.genruntimeconfig.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Introdução\obj\Debug\net6.0\ref\Introdução.dll

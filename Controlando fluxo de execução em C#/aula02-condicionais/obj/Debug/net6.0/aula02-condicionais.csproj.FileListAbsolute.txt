@@ -1,0 +1,15 @@
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\bin\Debug\net6.0\aula02-condicionais.exe
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\bin\Debug\net6.0\aula02-condicionais.deps.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\bin\Debug\net6.0\aula02-condicionais.runtimeconfig.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\bin\Debug\net6.0\aula02-condicionais.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\bin\Debug\net6.0\aula02-condicionais.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\aula02-condicionais.csproj.AssemblyReference.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\aula02-condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\aula02-condicionais.AssemblyInfoInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\aula02-condicionais.AssemblyInfo.cs
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\aula02-condicionais.csproj.CoreCompileInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\aula02-condicionais.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\refint\aula02-condicionais.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\aula02-condicionais.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\aula02-condicionais.genruntimeconfig.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula02-condicionais\obj\Debug\net6.0\ref\aula02-condicionais.dll

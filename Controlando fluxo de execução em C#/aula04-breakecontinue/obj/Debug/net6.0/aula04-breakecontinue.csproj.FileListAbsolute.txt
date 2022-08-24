@@ -1,0 +1,15 @@
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\bin\Debug\net6.0\aula04-breakecontinue.exe
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\bin\Debug\net6.0\aula04-breakecontinue.deps.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\bin\Debug\net6.0\aula04-breakecontinue.runtimeconfig.json
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\bin\Debug\net6.0\aula04-breakecontinue.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\bin\Debug\net6.0\aula04-breakecontinue.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\aula04-breakecontinue.csproj.AssemblyReference.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\aula04-breakecontinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\aula04-breakecontinue.AssemblyInfoInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\aula04-breakecontinue.AssemblyInfo.cs
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\aula04-breakecontinue.csproj.CoreCompileInputs.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\aula04-breakecontinue.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\refint\aula04-breakecontinue.dll
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\aula04-breakecontinue.pdb
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\aula04-breakecontinue.genruntimeconfig.cache
+C:\Users\Giovana\Desktop\Eu\Estudos\DOTNET - DIO\Controlando fluxo de execução em C#\aula04-breakecontinue\obj\Debug\net6.0\ref\aula04-breakecontinue.dll
