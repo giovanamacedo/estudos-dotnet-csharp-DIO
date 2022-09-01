@@ -1,3 +1,3 @@
 # 📚 Estudos .NET e C#
 
-Exercícios práticos realizados na plataforma da DIO.
+Exercícios práticos de códigos C# com .NET.
